@@ -1,4 +1,4 @@
-name: Test Project
+name: Test_Workflow
 on: push 
 jobs:
     test: 
